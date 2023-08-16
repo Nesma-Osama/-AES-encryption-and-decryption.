@@ -37,4 +37,8 @@ It look like the steps of encryption but there is some differences
 5-AddRoundKey()
 ```
 ## Some useful links to explain the AES algorithm
-[Document] vist https://classroom.google.com/u/0/c/NTQyNTUyODA3MjA2
+-<a href="https://classroom.google.com/u/0/c/NTQyNTUyODA3MjA2">Document</a>
+-<a href="https://youtu.be/O4xNJsjtN6E">Video1</a>
+-<a href="https://youtu.be/Lt0nkqccEhc?t=3">Video2</a>
+-<a href="https://youtu.be/0ryUIpyif54?t=1">Video3</a>
+
